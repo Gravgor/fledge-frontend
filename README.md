@@ -38,7 +38,7 @@ The Fledge Travel App is a modern, user-friendly web application designed to hel
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/enhanced-travel-app.git
+   git clone https://github.com/Gravgor/fledge-frontend.git
    ```
 
 2. Navigate to the project directory:
